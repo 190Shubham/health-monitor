@@ -1,6 +1,1 @@
-pip freeze | Select-String "opencv-python|mediapipe|numpy|scipy"Flask
-gunicorn
-opencv-python
-numpy
-mediapipe
-scipy
+Flask
